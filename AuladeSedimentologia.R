@@ -1,3 +1,6 @@
+#...................................Ketherini F Girardello......................................#
+#............................https://github.com/ketgirardello...................................#
+
 # AULA SEDIMENTOLOGIA
 # Dados coletados na aula de campo
 
