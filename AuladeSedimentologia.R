@@ -11,7 +11,7 @@
 
 # Método de Peneiramento e Pipetagem. Granulometria:
 # preparando a planilha
-setwd("C:/Users/Keth/Desktop/TCC/1TCC/Granulometria/Sedimentologia_23")
+setwd("C://Sedimentologia_23")
 
 library(readxl)
 library(tidyverse)
