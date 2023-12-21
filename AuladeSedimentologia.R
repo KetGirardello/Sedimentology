@@ -41,13 +41,13 @@ rys  #mean / median / sorting / skewness / kurtosis
 # salvar rys como planilha excel:
 library("writexl")
 write_xlsx(x=rys, 
-           path = "C:/Users/Keth/Desktop/TCC/1TCC/Granulometria/Sedimentologia_23//PEG_rys_Sedimentologia_23.xlsx")
+           path = "C://Sedimentologia_23//PEG_rys_Sedimentologia_23.xlsx")
 
 #weight percentages
 cl=class.percent (dad, mode="total")
 cl
 write_xlsx(x=cl, 
-           path = "C:/Users/Keth/Desktop/TCC/1TCC/Granulometria/Sedimentologia_23//PEG_percents_Sedimentologia_23.xlsx")
+           path = "C://Sedimentologia_23//PEG_percents_Sedimentologia_23.xlsx")
 
 ### HISTOGRAMAS
 # São 24 histogramas!! 6*4=24
